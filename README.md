@@ -6,7 +6,7 @@ A simple web application that generates random quotes and allows users to share 
 
 ## Live Demo
 
-[Live Demo](https://#)
+[Live Demo](https://spacelama587.github.io/quote-generator/)
 
 ## Features
 
