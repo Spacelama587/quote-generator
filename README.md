@@ -24,5 +24,5 @@ A simple web application that generates random quotes and allows users to share 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/Spacelama587/quote-generator
    ```
